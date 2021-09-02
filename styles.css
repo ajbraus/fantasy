@@ -1,0 +1,42 @@
+
+body {
+  margin: 0;
+}
+
+/* Classes 99% */
+/* HTML Tags .9% */
+/* Id's .1% */
+
+.section-header {
+  color: #7681da;
+  font-weight: bolder;
+  text-align: center;
+}
+
+.quote {
+  color: blue;
+  font-size: 25px;
+  margin-bottom: 100px;
+}
+
+.name-header {
+  color: #7751bb;
+  padding-top: 30px;
+  margin-top: 0;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.bg-primary {
+  background-color: #eee;
+}
+
+.footer {
+  padding: 100px 25px;
+  background-color: darkgray;
+  color: white;
+  margin-top: 50px;
+  box-shadow: 0px 17px 15px 12px #000000;
+}
